@@ -2,7 +2,7 @@
 
 Numerical N-body (4th-order Runge–Kutta) ballistic reconstruction and interactive WinForms visualization testing whether a synchronous fragmentation event from the orbit of **16 Psyche** (~649,187.7 years ago) simultaneously accounts for Uranus's 97.8° axial obliquity, Triton's retrograde capture at Neptune, and Hyperion's chaotic orbit at Saturn.
 
-- **Preprint & Full Dataset (Zenodo DOI):** [https://doi.org  ](https://doi.org/10.5281/zenodo.24364057)
+- **Preprint & Full Dataset (Zenodo DOI):** https://doi.org/10.5281/zenodo.24364057
 
 ## Repository Contents
 - `PsycheBallisticSolver/` — Backward 1,000,000-year integrator initialized with NASA JPL DE441 ephemerides (epoch 2026-Nov-10 TDB) and 3D sectorial grid search.
@@ -19,13 +19,13 @@ Numerical N-body (4th-order Runge–Kutta) ballistic reconstruction and interact
 # Testing the Hypothesis of a Former Planet in the Main Asteroid Belt: A Numerical Ballistic Reconstruction of Outer Solar System Anomalies
 
 **Author:** Dmitry Zimnitsky  
-**Preprint on Zenodo:** ([https://zenodo.org](https://zenodo.org/records/24364057))
-**DOI:** [https://doi.org  ](https://doi.org/10.5281/zenodo.24364057)
+**Preprint on Zenodo:** https://zenodo.org/records/24364057
+**DOI:** https://doi.org/10.5281/zenodo.24364057
 
 ## Overview
 Numerical N-body (4th-order Runge–Kutta) ballistic reconstruction testing whether a fragmentation event from **16 Psyche** accounts for outer Solar System anomalies (Uranus's obliquity, Triton's capture, Hyperion's orbit) using NASA JPL DE441 ephemerides. 
 
-* A full list of the repository contents, launch instructions, and a citation block in BibTeX/Markdown format can be found in the source file at [Zenodo]([https://zenodo.org](https://zenodo.org/records/24364057))
+* A full list of the repository contents, launch instructions, and a citation block in BibTeX/Markdown format can be found in the source file at https://zenodo.org/records/24364057
 
   ## About This Project (Author's Note)
 
@@ -36,6 +36,7 @@ Skeptics argue that the total mass of the Main Asteroid Belt is far smaller than
 Using high-precision numerical N-body ballistic modeling (RK4 with NASA JPL DE441 ephemerides) for 16 Psyche, Uranus, Triton, and Hyperion, I identified a highly probable synchronous ejection window **~649,187.7 years ago**. The full preprint is published on Zenodo: https://zenodo.org. The nuclear and physical processes (though not their ultimate cause) that could have provided the energy for such an event will be modeled in a subsequent paper.
 
 ---
+![Ballistic trajectories from 16 Psyche](figure1.png)
 
 ### О проекте (Заметка автора)
 
