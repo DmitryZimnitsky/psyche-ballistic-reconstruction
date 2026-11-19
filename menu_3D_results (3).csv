@@ -1,0 +1,4 @@
+﻿WindowId;CenterYear;Target;ExactYearsAgo;MinDistKm;SpeedKmS;AzimuthDeg;ElevationDeg;FlightYears;OriginX_MlnKm;OriginY_MlnKm;OriginZ_MlnKm
+3;978155.24;Сатурн;978156.33;191264;12.0;7.15;1.00;3.442;-396.20;-243.91;23.39
+3;978155.24;Уран;978153.59;335561;21.0;176.07;3.60;3.229;304.68;264.71;-22.06
+3;978155.24;Нептун;978156.33;684329;20.0;3.45;0.00;6.719;-396.20;-243.91;23.39
